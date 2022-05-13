@@ -15,3 +15,14 @@ Etape 1:
 
 ![This is an image](https://forum.cfx.re/uploads/default/optimized/3X/0/a/0a7854291a3546864a12b4283520bd3c58192e6f_2_690x300.png)
 
+- Vous devez maintenant accéder à la barre de navigation de gauche et accéder à Rich Presence>Art Assets.
+
+![This is an image](https://forum.cfx.re/uploads/default/optimized/3X/b/c/bca411d7b51bf613247873d39194255605e3e688_2_671x500.png)
+
+- C'est là que la magie commence, ici vous pouvez télécharger votre image. (L'image doit être de 512x512 pixels ou plus)
+
+![This is an image](https://forum.cfx.re/uploads/default/optimized/3X/c/a/cae8666cda59131cdb35a32e6802c4c31d9af5d6_2_690x407.png)
+
+- Si vous avez téléchargé l'image, vous devrez vous souvenir du nom de l'image et n'oubliez pas de cliquer sur "Enregistrer les modifications".
+
+![This is an image](https://forum.cfx.re/uploads/default/optimized/3X/5/1/51156ebc2414b316ba510911a7242c09a12ca097_2_690x443.png)
