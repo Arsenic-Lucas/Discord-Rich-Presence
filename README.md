@@ -44,3 +44,15 @@ Nouveau natif :
 
 SetDiscordRichPresenceAction
 Vérifiez le code ci-dessous pour voir comment les utiliser et ce qu'ils font !
+
+
+Si vous avez suivi toutes les étapes et utilisé les connaissances courantes, vous verrez ceci :
+
+![This is an image](https://i.gyazo.com/6c6f8b0c1956f9a5c34034eb537b1d33.png)
+![This is an image](https://cdn.discordapp.com/attachments/413281791760269314/489879134336712734/2b0ddca1acba63668e52a4e798044348.png)
+![This is an image](https://i.imgur.com/QtdUAVM.png)
+![This is an image](https://forum.cfx.re/uploads/default/original/3X/f/5/f5efc22b42612bda36c035a6a558aa9198fb47f2.png)
+![This is an image](https://forum.cfx.re/uploads/default/original/4X/5/d/d/5ddbb365a446818bf25fbafb1a07c598c2aec335.png)
+
+you might want to leave a like :heart: if you found this post helpfull
+Enjoy!
