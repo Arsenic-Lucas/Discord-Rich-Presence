@@ -7,4 +7,4 @@ Etape 1:
 
 - Pour commencer il vous faut aller ici => https://discord.com/developers/applications/
 - Une fois sur le site en question, vous devez crée une applications
-[image](https://user-images.githubusercontent.com/85886066/168369151-8be3a80a-f72a-465e-9c73-e3959ac6409a.png)
+[[image](https://user-images.githubusercontent.com/85886066/168369151-8be3a80a-f72a-465e-9c73-e3959ac6409a.png)
