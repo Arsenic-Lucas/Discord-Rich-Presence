@@ -26,3 +26,21 @@ Etape 1:
 - Si vous avez téléchargé l'image, vous devrez vous souvenir du nom de l'image et n'oubliez pas de cliquer sur "Enregistrer les modifications".
 
 ![This is an image](https://forum.cfx.re/uploads/default/optimized/3X/5/1/51156ebc2414b316ba510911a7242c09a12ca097_2_690x443.png)
+
+Nous avons maintenant l'identifiant de l'application Discord et le nom de l'image. Enfin, nous devons mettre ces valeurs dans un script.
+J'ai créé un script très simple et très simple pour que vous puissiez le tester.
+
+créez un dossier dans le dossier de ressources du serveur et appelez-le discord
+créez 2 fichiers, l'un appelé fxmanifest.lua et l'autre appelé client.lua
+collez le code ci-dessous dans le bon fichier
+(11-11-2018) Merci à @d0p3t, nous avons maintenant 3 nouveaux natifs
+Nouveaux natifs :
+
+SetDiscordRichPresenceAssetSmall
+SetDiscordRichPresenceAssetSmallText
+SetDiscordRichPresenceAssetText
+(26-02-2021) Merci à blattersturm 1.5k, nous avons un nouveau natif
+Nouveau natif :
+
+SetDiscordRichPresenceAction
+Vérifiez le code ci-dessous pour voir comment les utiliser et ce qu'ils font !
